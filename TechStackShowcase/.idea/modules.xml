@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TechStackShowcase.iml" filepath="$PROJECT_DIR$/TechStackShowcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TechStackShowcase.iml" filepath="$PROJECT_DIR$/.idea/TechStackShowcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redbook/redbook.iml" filepath="$PROJECT_DIR$/redbook/redbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
     </modules>
   </component>

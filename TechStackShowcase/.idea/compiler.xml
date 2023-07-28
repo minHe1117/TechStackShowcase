@@ -8,8 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="stream" />
         <module name="DesignPattern" />
-        <module name="Others" />
+        <module name="redbook" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DesignPattern" target="17" />
+      <module name="redbook" target="17" />
+      <module name="stream" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="redbook" options="-parameters" />
+    </option>
   </component>
 </project>
