@@ -1,9 +1,6 @@
 package java8.fecture.stream_api;
 
-/**
- * @author b1go
- * @date 4/10/23 12:46 AM
- */
+
 public class Product {
     private int id;
     private String name;

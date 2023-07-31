@@ -1,7 +1,8 @@
 package java8.fecture.stream_api;
 
-import com.chuwa.tutorial.t00_common.pojos.Employee;
+
 import org.junit.Test;
+import t00_common.pojos.Employee;
 
 import java.util.Arrays;
 import java.util.List;

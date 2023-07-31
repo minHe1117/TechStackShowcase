@@ -5,10 +5,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Random;
 
-/**
- * @author b1go
- * @date 4/12/23 11:33 PM
- */
+
 public class ShoppingCartAnswer {
 
     // 定义一个备选商品列表
