@@ -1,10 +1,10 @@
 package Publisher_Subscriber;
 
-import java.util.ArrayList;
-import java.util.List;
+
+i
 
 public class SubscriptionSubject implements Subject{
-    List<Observer>  WeiXinUserList = new ArrayList<>();
+    List<Observer> WeiXinUserList = new ArrayList<>();
     @Override
     public void attach(Observer observer) {
         WeiXinUserList.add(observer);
@@ -17,7 +17,7 @@ public class SubscriptionSubject implements Subject{
     }
 
     @Override
-    public void notify(String message) {
+    public void notify(MysqlxDatatypes.Scalar.String message) {
         for (Observer observer : WeiXinUserList) {
             observer.update(message);
         }
