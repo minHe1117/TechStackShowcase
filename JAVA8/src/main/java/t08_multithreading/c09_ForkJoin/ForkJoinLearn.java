@@ -1,4 +1,4 @@
-package com.chuwa.tutorial.t08_multithreading.c09_ForkJoin;
+package t08_multithreading.c09_ForkJoin;
 
 import org.junit.Test;
 
@@ -8,7 +8,6 @@ import java.util.concurrent.Future;
 import java.util.concurrent.RecursiveTask;
 
 /**
- * @author b1go
  * @date 7/18/22 4:48 PM
  */
 public class ForkJoinLearn {
